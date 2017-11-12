@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandyHolyoke</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_blocker_menu">BlockerMenuActivity</string>
+</resources>
